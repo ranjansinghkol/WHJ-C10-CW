@@ -1,1 +1,1 @@
-# WHJ-C10-CW
+# A Google Dinosaur game of a part
